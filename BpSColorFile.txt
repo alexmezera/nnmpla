@@ -1,0 +1,10 @@
+1177,225,225,225,255,Inter-Mountain Basins Greasewood Flat
+1170,230,0,169,255,Inter-Mountain Basins Montane Sagebrush Steppe
+1161,255,190,232,255,Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush
+1178,123,124,93,255,Rocky Mountain Montane Riparian Systems
+1172,185,174,211,255,Inter-Mountain Basins Semi-Desert Grassland
+1364,135,86,20,255,Southern Rocky Mountain Juniper Woodland and Savanna
+2717,255,190,232,255,Inter-Mountain Basins Big Sagebrush Shrubland-Upland
+1147,205,170,102,255,Colorado Plateau Pinyon-Juniper Woodland
+1346,183,138,46,255,Southern Rocky Mountain Pinyon-Juniper Woodland
+1367,194,158,215,255,Inter-Mountain Basins Semi-Desert Shrub-Steppe
