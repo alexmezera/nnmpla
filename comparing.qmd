@@ -12,18 +12,17 @@ library(tidyverse)
 
 ```
 
-Outputs on this page compare "Past" conditions with "Present" conditions.  Results here are intended for exploration and illumination of issues to explore further.  As noted on the "Present" page there are differences in the classification scheme so direct comparisons should be viewed with caution.  
+Outputs on this page compare "Past" conditions with "Present" conditions. Results here are intended for exploration and illumination of issues to explore further. As noted on the "Present" page there are differences in the classification scheme so direct comparisons should be viewed with caution.
 
 ## Summary
- 
 
 ## Looking at broad changes, vegetation conversion
 
-This interactive 'chord' diagram allows you to explore changes on the landscape.  To use:
+This interactive 'chord' diagram allows you to explore changes on the landscape. To use:
 
-* Hover over the outer bands to see connections.  For example, if you over over the dark green outer band of the "Past Conifer" group you can see that some is now mapped as converted, some hardwood, etc., and that the majority is still mapped as conifer.
-* Alternatively, if you hover over the orange outer band of "Hardwood" you can see what the present extent of hardwoods vegetation was historically.
-* The popups contain acres for the band.
+-   Hover over the outer bands to see connections. For example, if you over over the dark green outer band of the "Past Conifer" group you can see that some is now mapped as converted, some hardwood, etc., and that the majority is still mapped as conifer.
+-   Alternatively, if you hover over the orange outer band of "Hardwood" you can see what the present extent of hardwoods vegetation was historically.
+-   The popups contain acres for the band.
 
 ```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # read in data
@@ -84,15 +83,13 @@ htmlwidgets::saveWidget(chord,
                         )
 ```
 
+<iframe src="chord.html" height="720" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" data-external=".5">
 
-
-<iframe src="chord.html" height="720" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external=".5"></iframe>
+</iframe>
 
 <br>
 
 ## Succession classes for most dominant Biophysical Settings
-
-
 
 ```{r scls chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=9}
 
@@ -153,5 +150,3 @@ sclasplot <-
 sclasplot
 
 ```
-
-
