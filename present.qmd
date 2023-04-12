@@ -48,7 +48,7 @@ evtChart
 
 <br>
 
-![](images/evt.jpg){width=100%}
+![](images/evtdraft1.png){width=100%}
 
 <br>
 
@@ -137,7 +137,7 @@ evcChart
 
 ## Map of Existing Vegetation Cover
 
-![](images/evc.jpg){width=100%}
+![](images/evcdraft1.png){width=100%}
 
 ## Chart of Existing Vegetation Height
 
@@ -218,6 +218,6 @@ evhChart
 
 ## Map of Existing Vegetation Height
 
-![](images/evh.jpg){width=100%}
+![](images/evhdraft1.png){width=100%}
 
 
