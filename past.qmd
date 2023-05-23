@@ -50,7 +50,7 @@ bpsChart
 
 <br>
 
-![](images/bps_combine.png){width=100%}
+![](images/bpsWB.jpg){width=100%}
 
 <br>
 
@@ -93,7 +93,7 @@ fireChart
 
 ## Simplified map of historical fire regimes
 
-![](images/mfri.jpg){width=100%}
+![](images/mfriWB.jpg){width=100%}
 
 
 ## All historical disturbances per ecosystem

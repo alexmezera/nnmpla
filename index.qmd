@@ -44,7 +44,7 @@ library(raster)
 
 ```{r read shapefile, message=FALSE, warning=FALSE, include=FALSE}
 #  read shape
-shp <- st_read("data/") %>% 
+shp <- st_read("data/nmpla_allinc.gpkg") %>% 
   st_transform(crs = 5070) %>%
   st_union() %>%
   st_sf()
