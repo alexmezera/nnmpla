@@ -1,31 +1,28 @@
 ---
-title: "Northern New Mexico Plateau LANDFIRE Demo, 2023"
-author: "Alex Mezera/Randy Swaty with substantial code contributions from Myles Walimaa"
+title: "Northern New Mexico Plateau Subregion Landscape Assessment"
+author: "Alex Mezera, Conservation Data Lab"
 ---
 
 ## Goals of this quick demonstration
 
-In general we will use [LANDFIRE](https://landfire.gov/) products to:
+We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
 
-1. Map and summarize past and present ecosystems and ecosystem conditions
-2. Explore historical disturbance regimes
+1. Characterize and map past and present ecosystem conditions
+2. Explore historical disturbance patterns
 3. Summarize patterns of change and management opportunities
 
 
-Outputs presented here are the tip of the iceberg of what can be done with these datasets and are intended to help begin brainstorming about appropriate questions that could be explored collaboratively.
+The following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.
 
+This demonstration will:
 
-## Interacting with this web report
-A few notes about using this report:
+* provide context for the past and present ecosystem conditions the Northern New Mexico Plateau Subregion, one of the [Southern Rockies Fire Science Network's](https://www.southernrockiesfirescience.org/){target="blank"} (SRFSN) five Subregions
+* demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products
+* facilitate an understanding of historical and current conditions on a regional scale
 
-* As of Apr. 05 2023 there has been no QAQC.  This is a demo only.
-* This platform is web-hosted so you can simply share a link with collaborators for their review.  
-* Maps and charts are intended to represent general patterns, and are almost always limited to most common types (e.g., ecosystems).  You can use the "zoom" tool to take a closer look.
-* All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org) or [Alex Mezera](mailto:alex.mezera@gmail.com).
+## Assessment Location
 
-
-## Location of this assessment
-
+The SRFSN Northern New Mexico Plateau Subregion is located in south/central Colorado, north/central New Mexico [Read more](https://www.southernrockiesfirescience.org/wyoming-sagebrush/){target="blank"}. 
 
 
 <br>
@@ -57,13 +54,25 @@ library(tmap)
 tmap_mode("view")
 
 # create a quick interactive map
-quickmap <- qtm(shp, borders = "darkgreen", fill = NULL, check.and.fix = TRUE, basemaps = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',
-                title = 'Northern New Mexico Plateau',)
+quickmap <- qtm(shp, 
+                borders = "darkgreen", 
+                fill = NULL, 
+                check.and.fix = TRUE, 
+                basemaps = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',
+                title = 'Northern New Mexico Plateau Subregion',)
 
 quickmap
 
 
 
 ```
+
+## How to use this web report
+
+* All maps, input datasets and further assistance can be obtained by contacting the authors, [Randy Swaty](mailto:rswaty@tnc.org) or [Alex Mezera](mailto:alex.mezera@gmail.com).
+* QAQC is ongoing
+* To share this web app, simply share the hyperlink
+
+
 
 

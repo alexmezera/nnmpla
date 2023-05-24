@@ -19,19 +19,18 @@ Shrub Cover = 60-69%,#b3512f
 Shrub Cover = 70-79%,#ac3e28
 Shrub Cover = 80-89%,#a52823
 Shrub Cover = 90-100%,#9e0020
-Herb Cover = 10%,#ffcc66
-Herb Cover = 20%,#ffbf55
-Herb Cover = 30%,#ffb245
-Herb Cover = 40%,#ffa536
-Herb Cover = 50%,#ff9728
-Herb Cover = 60%,#ff871a
-Herb Cover = 70%,#ff770c
-Herb Cover = 80%,#ff6501
-Herb Cover = 90%,#ff4f00
-Herb Cover >= 99%,#ff3300
+Herb Cover = 10-19%,#ffcc66
+Herb Cover = 20-29%,#ffbf55
+Herb Cover = 30-39%,#ffb245
+Herb Cover = 40-49%,#ffa536
+Herb Cover = 50-59%,#ff9728
+Herb Cover = 60-69%,#ff871a
+Herb Cover = 70-79%,#ff770c
+Herb Cover = 80-89%,#ff6501
+Herb Cover = 90-100%,#ff4f00
 Open Water,#7FB3D5
 Developed,#808B96
-Agriculture,#808B96
+Agriculture,#ffed77
 Sparse Vegetation,#808B96
 Barren,#808B96
 Quarries,#808B96

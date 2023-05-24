@@ -6,8 +6,9 @@ project:
 
 website:
   title: "LANDFIRE-Powered Landscape Assessment"
-  navbar: 
-    pinned: TRUE
+  navbar:
+    search: TRUE
+    pinned: true
     left:
       - href: index.qmd
         text: Home
