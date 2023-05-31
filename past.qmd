@@ -46,7 +46,7 @@ bpsChart <-
   geom_bar(stat = "identity") +
   labs(
     title = "Top 10 Biophysical Settings",
-    caption = "Data from landfire.gov; Chart © Alex Mazera",
+    caption = "Data from landfire.gov; Chart © Alex Mezera",
     x = "",
     y = "Percent of landscape") +
   scale_x_discrete(limits = rev(bpsname$BPS_NAME),
@@ -76,7 +76,7 @@ fireChart <-
   geom_bar(stat = "identity") +
   labs(
     title = "Cumulative estimates of all fire types prior to pre-European colonization",
-    caption = "Data from landfire.gov; Chart © Alex Mazera",
+    caption = "Data from landfire.gov; Chart © Alex Mezera",
     x = "",
     y = "Acres") +
   scale_x_discrete(limits = rev(annualFire$BPS_NAME),

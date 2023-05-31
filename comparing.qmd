@@ -137,8 +137,8 @@ sclasplot <-
   scale_x_discrete(limits = (levels(bps_scls_3$refLabel))) +
   labs(
     title = "Succession Classes past and present",
-    subtitle = "5 BpSs selected for illustration. Not all succession classes present in all BpSs",
-    caption = "Data from landfire.gov; Chart © Randy Swaty",
+    subtitle = "6 BpSs selected for illustration. Not all succession classes present in all BpSs",
+    caption = "Data from landfire.gov; Chart © Alex Mezera",
     x = "",
     y = "Percent")+
   theme_minimal(base_size = 14)+

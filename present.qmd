@@ -49,7 +49,7 @@ evtChart <-
   geom_bar(stat = "identity") +
   labs(
     title = "Top 10 Existing Vegetation Types",
-    caption = "Data from landfire.gov; Chart © Alex Mazera",
+    caption = "Data from landfire.gov; Chart © Alex Mezera",
     x = "",
     y = "percent of landscape") +
   scale_x_discrete(limits = rev(evtname$EVT_NAME),
@@ -154,7 +154,7 @@ evcChart <-
   geom_bar(stat = "identity") +
   labs(
     title = "Existing Vegetation Cover",
-    caption = "Data from landfire.gov; Chart © Alex Mazera",
+    caption = "Data from landfire.gov; Chart © Alex Mezera",
     x = "amount of landscape",
     y = "most dominant lifeform") +
   scale_fill_identity() +
@@ -249,7 +249,7 @@ ggplot(data = evhgroup, aes(x = label, y = REL_PERCENT, fill = colors)) +
   geom_bar(stat = "identity") +
   labs(
     title = "Existing Vegetation Height",
-    caption = "Data from landfire.gov; Chart © Alex Mazera",
+    caption = "Data from landfire.gov; Chart © Alex Mezera",
     x = "",
     y = "percent of landscape") +
   scale_fill_identity() +
