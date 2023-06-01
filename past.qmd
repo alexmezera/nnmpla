@@ -13,7 +13,7 @@ Use this page as a starting point to explore the most prevalent BpSs in the SRFS
 
 ## Summary
 
-* The top 10 BpSs covered almost all of the subregion historically, with the Inter-Mountain Basins Greasewood Flat being the most dominant at ~22%.
+* Prior to European colonization the top 10 BpSs covered almost all of the subregion, with the [Inter-Mountain Basins Greasewood Flat](https://landfirereview.org/search.php?q=Inter-Mountain%20Basins%20Greasewood%20Flat&hPP=20&idx=lf_landfire_dev&p=0&is_v=1){target="blank"} being the most dominant at ~22%.
 * The Inter-Mountain Basins Semi-Desert Grassland had the most fire, with ~ 12,000 acres annually prior to European colonization.
 * While fire was an important disturbance historically, the Rocky Mountain Montane Riparian Systems experienced the most disturbance with ~ 127,000 acres of 'wind/weather/stress' (i.e., flooding) occuring every year.
 
@@ -98,6 +98,7 @@ ggsave("./OUTPUTS/fireChart.png", width = 12, height = 5)
 
 ![](images/mfri.jpg){width=100%}
 
+<br>
 
 ## Historical Disturbances (per ecosystem)
 
