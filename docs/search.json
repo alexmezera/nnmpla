@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About this Project",
     "section": "",
-    "text": "The data compiled for this Southern Rockies Fire Science Network “Subregion” is the result of a volunteer project that supports information dissemination and natural resource management decisions within the 6 subregions of the SRFSN. Why subregions? Learn more here"
+    "text": "The data compiled for this Southern Rockies Fire Science Network “Subregion” is the result of a volunteer project that supports information dissemination and natural resource management decisions within the 5 subregions of the SRFSN. Why subregions? Learn more here."
   },
   {
     "objectID": "about.html#the-nature-conservancy-landfire",
@@ -46,7 +46,7 @@
     "href": "comparing.html#comparing-broad-vegetation-trends",
     "title": "Comparisons",
     "section": "Comparing Broad Vegetation Trends",
-    "text": "Comparing Broad Vegetation Trends\n\nSummary\n\nBroadly speaking, this subregion has not experienced significant ecosystem conversion.\n\nMost of the area currently mapped as agriculture was previously mapped as “riparian” or “shrubland”.\n\nMost exotics are mapped on areas mapped historically as shrubland."
+    "text": "Comparing Broad Vegetation Trends\n\nSummary\n\nBroadly speaking, this subregion has not experienced significant ecosystem conversion.\n\nMost of the area currently mapped as agriculture was previously mapped as “riparian” or “shrubland”.\n\nNearly all of the land classified as present day “exotic vegetation” was converted from shrubland areas."
   },
   {
     "objectID": "comparing.html#succession-classes-for-most-dominant-bpss",
@@ -88,7 +88,7 @@
     "href": "past.html#summary",
     "title": "Past: Historical Ecosystems",
     "section": "Summary",
-    "text": "Summary\n\nThe top 10 BpSs covered almost all of the subregion historically, with the Inter-Mountain Basins Greasewood Flat being the most dominant at ~22%.\nThe Inter-Mountain Basins Semi-Desert Grassland had the most fire, with ~ 12,000 acres annually prior to European colonization.\nWhile fire was an important disturbance historically, the Rocky Mountain Montane Riparian Systems experienced the most disturbance with ~ 127,000 acres of ‘wind/weather/stress’ (i.e., flooding) occuring every year.\n\nScroll down to explore the “historical disturbances per ecosystem” using the interactive web app."
+    "text": "Summary\n\nPrior to European colonization the top 10 BpSs covered almost all of the subregion, with the Inter-Mountain Basins Greasewood Flat being the most dominant at ~22%.\nThe Inter-Mountain Basins Semi-Desert Grassland had the most fire, with ~ 12,000 acres annually prior to European colonization.\nWhile fire was an important disturbance historically, the Rocky Mountain Montane Riparian Systems experienced the most disturbance with ~ 127,000 acres of ‘wind/weather/stress’ (i.e., flooding) occuring every year.\n\nScroll down to explore the “historical disturbances per ecosystem” using the interactive web app."
   },
   {
     "objectID": "past.html#most-prevalent-biophysical-settings",
@@ -137,7 +137,7 @@
     "href": "present.html#summary",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Summary",
-    "text": "Summary\n\nInter-Mountain Basins Semi-Desert Shrub-Steppe is the most dominant EVT at ~22%.\n\nRoughly 15% of the subregion is mapped in agricultural land use."
+    "text": "Summary\n\nInter-Mountain Basins Semi-Desert Shrub-Steppe is the most dominant EVT at ~22%.\n\nRoughly 15% of the subregion is mapped as agricultural."
   },
   {
     "objectID": "present.html#most-prevalent-existing-vegetation-types",
